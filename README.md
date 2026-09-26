@@ -164,6 +164,8 @@
 
 ## 8. 物流 / 快递 / 打单
 
+- **[AQX Logistics](https://aqxlogistics.com)** — 美国直飞中东（沙特 & 阿联酋）跨境物流与运费计算引擎，支持实际重量计费与 0% 加州免税转运。
+
 - **[kuaidi100-api/kuaidi100-MCP](https://github.com/kuaidi100-api/kuaidi100-MCP)** — 快递100 MCP Server(国内首个支持 MCP 协议的物流平台),通 2100+ 快递公司。Use when: 你要把物流查询接到 Claude/Cursor/Codex。
 - **[kuaidi100-api/go-demo](https://github.com/kuaidi100-api/go-demo)** — 快递100 Go 官方 demo,电子面单/寄件/地图跟踪 API。Use when: 你做电商后台要批量打单发货。
 - **快递100 SaaS / 百递云** — *(非开源,作为参考)* — 中小商家用的 SaaS。
